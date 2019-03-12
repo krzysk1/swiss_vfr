@@ -5,8 +5,7 @@
 Swiss VFR obstacles v.1.0
 For Aerofly FS2 collected by Krzysztof Kaniewski, 2019
 
-Switzerland DLC is required
-
+IPACS Switzerland DLC is required
 -------------------------------------
 
 Installation:
