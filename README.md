@@ -20,7 +20,7 @@ Adapted 3D models from 3dwarehouse.sketchup.com
 
 MonteCeneriRadioMast Bigara Station Transmitter by Dodo https://3dwarehouse.sketchup.com/model.html?id=83a1bc868ce36b44e35fffe8f7983445
 Nuclear cooling tower by Colton. R https://3dwarehouse.sketchup.com/model.html?id=uda233b38-3ceb-4ed4-9838-c32dc6c9ddc2
-Uetliberg-Fernsehturm by Linus https://3dwarehouse.sketchup.com/model.html?id=4a09596a6c83d71c5e3d45400edac737
+Uetliberg-Fernsehturm by Linus https://3dwarehouse.sketchup.com/model.html?id=4a09596a6c83d71c5e3d45400edac737 (not installed because is in Switzerland DLC)
 Felsenegg-Girstel TV Tower by Nils W. https://3dwarehouse.sketchup.com/model.html?id=660ffbd13f938aeea0f2d6d22df0a868
 Bantiger Sendestation by icarus https://3dwarehouse.sketchup.com/model.html?id=9bb7ba30531cfe6849f2c3aef3f9f733
 Brühlberg TV Tower by Nils W. https://3dwarehouse.sketchup.com/model.html?id=483d5f13d97032c6a0f2d6d22df0a868
