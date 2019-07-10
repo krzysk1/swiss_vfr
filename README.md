@@ -45,10 +45,25 @@ Verzasca Dam by Brian C. https://3dwarehouse.sketchup.com/model.html?id=3cd45f4b
 Mattmark Dam, Saas Almagell by Zippy https://3dwarehouse.sketchup.com/model.html?id=d0b114cab3001584543979f6e84dd603
 Linth-Limmern Dam by Lakitha Keshan Perera https://3dwarehouse.sketchup.com/model.html?id=6a3ed68fc0be8f4aac2cd19232fcaa0
 
+Swiss bridges
+-------------
+Kirchenfeldbrücke Bridge by WTComplete  https://3dwarehouse.sketchup.com/model.html?id=3640fce2b13780eb7f2461b1e306812f
+Lorrainebrücke Bridge by Ezzat https://3dwarehouse.sketchup.com/model.html?id=ed602ad92f2e1160f8badae23d69f93f
+South railway bridge over Paudeze by dzahnd https://3dwarehouse.sketchup.com/model.html?id=864cdda660f34d3378002fb0d5f02421
+Pont Butin by rodrigo s. https://3dwarehouse.sketchup.com/model.html?id=620ea3237f988a1f01f778a9a8dc4c7
+Pont du Ganter by Pinch A. https://3dwarehouse.sketchup.com/model.html?id=f383871cb0a1cea2e48d1b8090c817f1
+Les viaducs de Chillon by Pinch A. https://3dwarehouse.sketchup.com/model.html?id=f020909d03ac9d49e48d1b8090c817f1
+Ponts de Gueuroz by Pinch A. https://3dwarehouse.sketchup.com/model.html?id=c29856d9f44f468ee48d1b8090c817f1
+Luogelkinviadukt by i-bramois https://3dwarehouse.sketchup.com/model.html?id=8db1b0208b9b016b908777ad8701d974
+Trift Bridge I - Triftbrücke by Frank https://3dwarehouse.sketchup.com/model.html?id=b016a9c00f0fbcd4ebfea3ddd4a3a53
+Passerelle a Farinet by Pinch A. https://3dwarehouse.sketchup.com/model.html?id=59e4f9230e16688e48d1b8090c817f1
+Viaduc de la Jonction by rodrigo s. https://3dwarehouse.sketchup.com/model.html?id=ff2d703216a87c3a2aa897d0fe34f924
+Salginatobel Brücke by Aerilius https://3dwarehouse.sketchup.com/model.html?id=5fc99f9a86ca4c448a124f4737362fcd
+
 TO DO:
 ------
-Grimsel, Seeuferegg Staumauer by Bernd67 (Bernd Schultis) https://3dwarehouse.sketchup.com/model.html?id=8ff6f48a3ebcfe1bb7a67978c148f17c
-Grimsel, Spitallamm Staumauer by Bernd67 https://3dwarehouse.sketchup.com/model.html?id=dfd629060268058a2fb0ece3d1e900ea
+Grimsel1 Dam, Seeuferegg Staumauer by Bernd67 (Bernd Schultis) https://3dwarehouse.sketchup.com/model.html?id=8ff6f48a3ebcfe1bb7a67978c148f17c
+Grimsel2 Dam, Spitallamm Staumauer by Bernd67 https://3dwarehouse.sketchup.com/model.html?id=dfd629060268058a2fb0ece3d1e900ea
 Hammetschwand Elevator, Hammetschwand by 3D-Grabber https://3dwarehouse.sketchup.com/model.html?id=5b4857340dc5355d58c644aaaba18c15
 
 Pylon

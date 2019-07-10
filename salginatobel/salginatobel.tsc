@@ -1,13 +1,13 @@
 <[file][][]
     <[tmsimulator_scenery_place][][]
         <[string8][type][]>
-        <[string8][sname][Grande Dixence]>
-        <[string8][lname][Grande Dixence Dam]>
+        <[string8][sname][Salginatobel Brücke]>
+        <[string8][lname][Salginatobel Brücke]>
         <[string8][icao][]>
         <[string8][country][CH]>
         <[string8][coordinate_system][swiss]>
-        <[vector2_float64][position][7.40271 46.080658]>
-        <[float64][height][2216]>
+        <[vector2_float64][position][9.717978 46.981778]>
+        <[float64][height][799.7]>
         <[float64][size][1000]>
         <[vector2_float64][tower_position][0 0]>
         <[float64][tower_height][0]>
@@ -16,8 +16,8 @@
         <[list_tmsimulator_scenery_object][objects][]
             <[tmsimulator_scenery_object][element][0]
                 <[string8][type][object]>
-                <[string8][geometry][grande_dixence_obj]>
-                <[vector3_float64][position][597230 103340.4 2216]>
+                <[string8][geometry][salginatobel_obj]>
+                <[vector3_float64][position][773401.2 205929.2 799.7]>
                 <[float64][orientation][0]>
                 <[int32][autoheight_override][-1]>
             >

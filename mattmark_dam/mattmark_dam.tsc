@@ -17,7 +17,7 @@
             <[tmsimulator_scenery_object][element][0]
                 <[string8][type][object]>
                 <[string8][geometry][mattmark_dam_obj]>
-                <[vector3_float64][position][640422.7 99913.1 0]>
+                <[vector3_float64][position][640422.7 99913.1 2191]>
                 <[float64][orientation][0]>
                 <[int32][autoheight_override][-1]>
             >
