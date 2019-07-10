@@ -37,6 +37,20 @@ Antennas American Radio as HBG Prangins Towers by AAE https://3dwarehouse.sketch
 TV tower Cherkasy by Satas Nis https://3dwarehouse.sketchup.com/model.html?id=4844b381f08f80401e00cbaf374f8daa
 Dublin Bay Chimneys by AndrewT https://3dwarehouse.sketchup.com/model.html?id=22ad0c01caaa5845940abb2d3b6b6eff
 
+Swiss dams
+----------
+Grande Dixence Dam by jw_n_mo https://3dwarehouse.sketchup.com/model.html?id=4da7dde3005b71b59a2179681175d7e7
+Mauvoisin Dam by jw_n_mo https://3dwarehouse.sketchup.com/model.html?id=b19f5f577b5eb764ec615c5cc5618f46
+Verzasca Dam by Brian C. https://3dwarehouse.sketchup.com/model.html?id=3cd45f4b46f5402bf97a82b99ec42f03
+Mattmark Dam, Saas Almagell by Zippy https://3dwarehouse.sketchup.com/model.html?id=d0b114cab3001584543979f6e84dd603
+Linth-Limmern Dam by Lakitha Keshan Perera https://3dwarehouse.sketchup.com/model.html?id=6a3ed68fc0be8f4aac2cd19232fcaa0
+
+TO DO:
+------
+Grimsel, Seeuferegg Staumauer by Bernd67 (Bernd Schultis) https://3dwarehouse.sketchup.com/model.html?id=8ff6f48a3ebcfe1bb7a67978c148f17c
+Grimsel, Spitallamm Staumauer by Bernd67 https://3dwarehouse.sketchup.com/model.html?id=dfd629060268058a2fb0ece3d1e900ea
+Hammetschwand Elevator, Hammetschwand by 3D-Grabber https://3dwarehouse.sketchup.com/model.html?id=5b4857340dc5355d58c644aaaba18c15
+
 Pylon
 chimney
 concretetower

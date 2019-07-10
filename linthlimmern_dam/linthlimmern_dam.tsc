@@ -1,0 +1,40 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][]>
+        <[string8][sname][Linth-Limmern Dam]>
+        <[string8][lname][Linth-Limmern Dam]>
+        <[string8][icao][]>
+        <[string8][country][CH]>
+        <[string8][coordinate_system][swiss]>
+        <[vector2_float64][position][9.008897 46.845777]>
+        <[float64][height][1739.8]>
+        <[float64][size][1000]>
+        <[vector2_float64][tower_position][0 0]>
+        <[float64][tower_height][0]>
+        <[bool][autoheight][false]>
+        <[string8][autoheight_method][]>
+        <[list_tmsimulator_scenery_object][objects][]
+            <[tmsimulator_scenery_object][element][0]
+                <[string8][type][object]>
+                <[string8][geometry][linthlimmern_dam_obj]>
+                <[vector3_float64][position][719709.1 189543.3 1739.8]>
+                <[float64][orientation][0]>
+                <[int32][autoheight_override][-1]>
+            >
+        >
+        <[list_tmsimulator_scenery_object_animated][objects_animated][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_startposition][start_positions][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_view_position][view_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
