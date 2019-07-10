@@ -1,0 +1,40 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][]>
+        <[string8][sname][Triftbruecke]>
+        <[string8][lname][Triftbruecke]>
+        <[string8][icao][]>
+        <[string8][country][CH]>
+        <[string8][coordinate_system][swiss]>
+        <[vector2_float64][position][8.357545 46.694178]>
+        <[float64][height][1693.4]>
+        <[float64][size][1000]>
+        <[vector2_float64][tower_position][0 0]>
+        <[float64][tower_height][0]>
+        <[bool][autoheight][false]>
+        <[string8][autoheight_method][]>
+        <[list_tmsimulator_scenery_object][objects][]
+            <[tmsimulator_scenery_object][element][0]
+                <[string8][type][object]>
+                <[string8][geometry][triftbruecke_obj]>
+                <[vector3_float64][position][670236 171865.2 1693.4]>
+                <[float64][orientation][0]>
+                <[int32][autoheight_override][-1]>
+            >
+        >
+        <[list_tmsimulator_scenery_object_animated][objects_animated][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_startposition][start_positions][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_view_position][view_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
