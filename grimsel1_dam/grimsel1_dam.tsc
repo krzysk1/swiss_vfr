@@ -1,0 +1,40 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][]>
+        <[string8][sname][Grimsel Seeuferegg Staumauer]>
+        <[string8][lname][Grimsel Seeuferegg Staumauer]>
+        <[string8][icao][]>
+        <[string8][country][CH]>
+        <[string8][coordinate_system][swiss]>
+        <[vector2_float64][position][8.329531 46.572313]>
+        <[float64][height][1809]>
+        <[float64][size][1000]>
+        <[vector2_float64][tower_position][0 0]>
+        <[float64][tower_height][0]>
+        <[bool][autoheight][false]>
+        <[string8][autoheight_method][]>
+        <[list_tmsimulator_scenery_object][objects][]
+            <[tmsimulator_scenery_object][element][0]
+                <[string8][type][object]>
+                <[string8][geometry][grimsel1_dam_obj]>
+                <[vector3_float64][position][668385.3 158318.3 1809]>
+                <[float64][orientation][0]>
+                <[int32][autoheight_override][-1]>
+            >
+        >
+        <[list_tmsimulator_scenery_object_animated][objects_animated][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_startposition][start_positions][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_view_position][view_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
